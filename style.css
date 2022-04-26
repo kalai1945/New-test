@@ -1,3 +1,10 @@
 *{
-  margin:50px;
+  margin:0px;
+  display:flexbox;
+}
+
+.big{
+  border: 2px solid;
+  background-color: rgb(248, 102, 76);
+  height: 969px;
 }
